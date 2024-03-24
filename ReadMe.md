@@ -1,6 +1,6 @@
 # About Me:
 
-My name is Jack Herberger, I am a Computer Science student at Cal Poly SLO. I am passionate about doing meaningful work and bringing our community together. 
+My name is Jack Herberger, I am a Computer Science student at Cal Poly SLO. <br>I am passionate about doing meaningful work and bringing our community together.<br>
 
 # Some things I've been looking into...
 I'm currently working on developing Goop, a blogging social media platform.<br>I have a keen interest in Technical Product Management.<br>Always in a constant state of learning and growing.
