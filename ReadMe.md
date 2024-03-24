@@ -14,4 +14,4 @@ I'm currently working on developing Goop, a blogging social media platform.<br>I
 
 #### 
 ---
-"What are people in your field religious about, <br>in the sense of being too attached to some principle that might not be as self-evident as they think? <br>What becomes possible if you discard it?" - Paul Graham
+"What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think? <br>What becomes possible if you discard it?" - Paul Graham
